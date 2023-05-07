@@ -1,2 +1,2 @@
 # ssl_based_server_client_application
-I am presenting a multiple client connection supported server with SSL security
+This is a client server program with SSL security. Multiple clients are supported<br>
